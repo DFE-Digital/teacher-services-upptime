@@ -1,29 +1,40 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: DFE-Digital # Your GitHub organization or username, where this repository lives
+repo: teacher-services-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Get into teaching
+    url: https://getintoteaching.education.gov.uk/
+  - name: Get into teaching - Adviser
+    url: https://adviser-getintoteaching.education.gov.uk/
+  - name: Get into teaching - API
+    url: https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check
+  - name: Register trainee teachers
+    url: https://www.register-trainee-teachers.education.gov.uk/
+  - name: Find postgraduate teacher training
+    url: https://www.find-postgraduate-teacher-training.service.gov.uk/
+  - name: Publish teacher training courses
+    url: https://www.publish-teacher-training-courses.service.gov.uk/
+  - name: Apply for teacher training
+    url: https://www.apply-for-teacher-training.service.gov.uk/
+  - name: Teacher training API
+    url: https://api.publish-teacher-training-courses.service.gov.uk/
+  - name: Teaching Vacancies
+    url: https://teaching-vacancies.service.gov.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /teacher-services-upptime
+  logoUrl: https://assets.apply-for-teacher-training.service.gov.uk/packs/media/images/govuk-crest-2x-05968778.png
+  favicon: https://api.publish-teacher-training-courses.service.gov.uk/favicon.ico
+  name: Teacher services status
+  introTitle: Status of all digital services in **Teacher services**
+  introMessage: Updated every 5 min
   navbar:
     - title: Status
-      href: /
+      href: /teacher-services-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
