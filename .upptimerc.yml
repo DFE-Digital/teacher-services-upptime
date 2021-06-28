@@ -31,7 +31,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: teacher-services-status.education.gov.uk
   baseUrl: /teacher-services-upptime
   logoUrl: https://assets.apply-for-teacher-training.service.gov.uk/packs/media/images/govuk-crest-2x-05968778.png
   favicon: https://api.publish-teacher-training-courses.service.gov.uk/favicon.ico
