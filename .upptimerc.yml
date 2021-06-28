@@ -21,6 +21,12 @@ sites:
     url: https://api.publish-teacher-training-courses.service.gov.uk/
   - name: Teaching Vacancies
     url: https://teaching-vacancies.service.gov.uk/
+  - name: Manage Teacher CPD
+    url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
+  - name: Support Early Career Teachers
+    url: https://support-for-early-career-teachers.education.gov.uk/healthcheck
+  - name: Claim Additional Payments for Teachers
+    url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
