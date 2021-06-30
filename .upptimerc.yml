@@ -34,7 +34,10 @@ status-website:
   favicon: https://api.publish-teacher-training-courses.service.gov.uk/favicon.ico
   name: Teacher services status
   introTitle: Status of all digital services in **Teacher services**
-  introMessage: Updated every 5 min
+  introMessage: |
+    This website is in **beta**.
+    It aims to show the status of each service in Teacher services and log potential downtimes, but false alarms may still happen.
+    Updated every 5 min.
   navbar:
     - title: Status
       href: /teacher-services-upptime/
