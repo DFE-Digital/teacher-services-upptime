@@ -26,7 +26,7 @@ sites:
   - name: Claim Additional Payments for Teachers
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
   - name: Http Bin
-    url: https://httpbin.org/status/500
+    url: https://httpbin.org/status/200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
