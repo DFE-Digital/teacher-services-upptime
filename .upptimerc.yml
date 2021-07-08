@@ -12,13 +12,13 @@ sites:
   - name: Register trainee teachers
     url: https://www.register-trainee-teachers.education.gov.uk/
   - name: Find postgraduate teacher training
-    url: https://www.find-postgraduate-teacher-training.service.gov.uk/
+    url: https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck
   - name: Publish teacher training courses
-    url: https://www.publish-teacher-training-courses.service.gov.uk/
+    url: https://www.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Apply for teacher training
-    url: https://www.apply-for-teacher-training.service.gov.uk/
+    url: https://www.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
   - name: Teacher training API
-    url: https://api.publish-teacher-training-courses.service.gov.uk/
+    url: https://api.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Teaching Vacancies
     url: https://teaching-vacancies.service.gov.uk/
   - name: Manage Teacher CPD
