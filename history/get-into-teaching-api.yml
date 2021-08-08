@@ -1,7 +1,7 @@
 url: https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check
 status: up
 code: 200
-responseTime: 761
-lastUpdated: 2021-08-07T23:04:33.125Z
+responseTime: 469
+lastUpdated: 2021-08-08T23:04:21.446Z
 startTime: Fri Jun 25 2021 10:56:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
