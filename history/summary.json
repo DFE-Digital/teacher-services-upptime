@@ -24,19 +24,19 @@
     "url": "https://adviser-getintoteaching.education.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/adviser-getintoteaching.education.gov.uk",
     "slug": "get-into-teaching-adviser",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 701,
-    "timeDay": 945,
-    "timeWeek": 769,
+    "timeDay": 824,
+    "timeWeek": 761,
     "timeMonth": 692,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 7
     }
   },
   {
