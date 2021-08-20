@@ -156,18 +156,20 @@
     "url": "https://teaching-vacancies.service.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/teaching-vacancies.service.gov.uk",
     "slug": "teaching-vacancies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 571,
-    "timeWeek": 581,
-    "timeMonth": 591,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 616,
+    "timeDay": 879,
+    "timeWeek": 656,
+    "timeMonth": 610,
+    "timeYear": 616,
+    "dailyMinutesDown": {
+      "2021-08-20": 0
+    }
   },
   {
     "name": "Manage Teacher CPD",
