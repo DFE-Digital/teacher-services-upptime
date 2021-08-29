@@ -44,19 +44,19 @@
     "url": "https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check",
     "icon": "https://favicons.githubusercontent.com/get-into-teaching-api-prod.london.cloudapps.digital",
     "slug": "get-into-teaching-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 543,
-    "timeWeek": 582,
-    "timeMonth": 614,
-    "timeYear": 616,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 615,
+    "timeDay": 536,
+    "timeWeek": 576,
+    "timeMonth": 612,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2021-08-29": 0
+      "2021-08-29": 9
     }
   },
   {
