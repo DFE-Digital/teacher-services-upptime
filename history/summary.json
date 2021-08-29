@@ -44,9 +44,9 @@
     "url": "https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check",
     "icon": "https://favicons.githubusercontent.com/get-into-teaching-api-prod.london.cloudapps.digital",
     "slug": "get-into-teaching-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 582,
     "timeMonth": 614,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-29": 0
+    }
   },
   {
     "name": "Register trainee teachers",
