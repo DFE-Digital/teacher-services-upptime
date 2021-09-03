@@ -1,7 +1,7 @@
 url: https://pen.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
-status: up
-code: 200
-responseTime: 450
-lastUpdated: 2021-09-03T15:22:50.269Z
+status: down
+code: 404
+responseTime: 545
+lastUpdated: 2021-09-03T15:41:18.707Z
 startTime: Fri Sep 03 2021 09:46:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
