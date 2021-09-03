@@ -232,19 +232,19 @@
     "url": "https://pen.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all",
     "icon": "https://favicons.githubusercontent.com/pen.apply-for-teacher-training.service.gov.uk",
     "slug": "apply-teacher-training-pen-test",
-    "status": "down",
-    "uptime": "96.85%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "96.85%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "96.85%",
-    "time": 506,
-    "timeDay": 506,
-    "timeWeek": 506,
-    "timeMonth": 506,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "84.46%",
+    "uptimeDay": "84.46%",
+    "uptimeWeek": "84.46%",
+    "uptimeMonth": "84.46%",
+    "uptimeYear": "84.46%",
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
-      "2021-09-03": 11
+      "2021-09-03": 64
     }
   }
 ]
