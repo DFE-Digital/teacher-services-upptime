@@ -27,6 +27,8 @@ sites:
     url: https://support-for-early-career-teachers.education.gov.uk/healthcheck
   - name: Claim Additional Payments for Teachers
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
+  - name: Apply Teacher Training Pen Test
+    url: https://pen.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
