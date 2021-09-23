@@ -60,6 +60,24 @@
     }
   },
   {
+    "name": "School Experience",
+    "url": "https://schoolexperience.education.gov.uk/",
+    "icon": "https://favicons.githubusercontent.com/schoolexperience.education.gov.uk",
+    "slug": "school-experience",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Register trainee teachers",
     "url": "https://www.register-trainee-teachers.education.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/www.register-trainee-teachers.education.gov.uk",
