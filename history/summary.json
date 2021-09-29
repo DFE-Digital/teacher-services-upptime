@@ -48,12 +48,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 617,
     "timeDay": 479,
     "timeWeek": 589,
-    "timeMonth": 620,
+    "timeMonth": 623,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2021-08-29": 9
@@ -64,18 +64,20 @@
     "url": "https://schoolexperience.education.gov.uk/healthcheck",
     "icon": "https://favicons.githubusercontent.com/schoolexperience.education.gov.uk",
     "slug": "school-experience",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1388,
-    "timeDay": 1417,
-    "timeWeek": 1388,
-    "timeMonth": 1388,
-    "timeYear": 1388,
-    "dailyMinutesDown": {}
+    "time": 1446,
+    "timeDay": 1693,
+    "timeWeek": 1446,
+    "timeMonth": 1446,
+    "timeYear": 1446,
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "Register trainee teachers",
