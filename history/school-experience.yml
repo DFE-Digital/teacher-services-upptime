@@ -1,7 +1,7 @@
 url: https://schoolexperience.education.gov.uk/healthcheck
-status: down
-code: 401
-responseTime: 497
-lastUpdated: 2021-10-07T14:15:08.303Z
+status: up
+code: 200
+responseTime: 1167
+lastUpdated: 2021-10-07T14:30:16.422Z
 startTime: Thu Sep 23 2021 09:15:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
