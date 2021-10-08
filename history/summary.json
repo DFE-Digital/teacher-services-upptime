@@ -64,9 +64,9 @@
     "url": "https://schoolexperience.education.gov.uk/healthcheck",
     "icon": "https://favicons.githubusercontent.com/schoolexperience.education.gov.uk",
     "slug": "school-experience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
@@ -76,6 +76,7 @@
     "timeMonth": 1599,
     "timeYear": 1599,
     "dailyMinutesDown": {
+      "2021-10-08": 0,
       "2021-10-07": 15,
       "2021-10-04": 14,
       "2021-09-29": 24
