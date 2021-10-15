@@ -67,7 +67,7 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "98.03%",
-    "uptimeWeek": "98.71%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.42%",
     "time": 1554,
@@ -89,19 +89,19 @@
     "url": "https://www.register-trainee-teachers.education.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/www.register-trainee-teachers.education.gov.uk",
     "slug": "register-trainee-teachers",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 706,
-    "timeWeek": 626,
-    "timeMonth": 653,
+    "timeDay": 669,
+    "timeWeek": 622,
+    "timeMonth": 651,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2021-10-15": 0
+      "2021-10-15": 6
     }
   },
   {
