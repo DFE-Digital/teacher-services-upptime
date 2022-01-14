@@ -254,9 +254,9 @@
     "url": "https://claim-additional-teaching-payment.service.gov.uk/healthcheck",
     "icon": "https://favicons.githubusercontent.com/claim-additional-teaching-payment.service.gov.uk",
     "slug": "claim-additional-payments-for-teachers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -265,7 +265,9 @@
     "timeWeek": 440,
     "timeMonth": 492,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 0
+    }
   },
   {
     "name": "Qualified Teachers API",
