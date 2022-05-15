@@ -10,7 +10,7 @@ sites:
   - name: Get into teaching - API
     url: https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check
   - name: School Experience
-    url: https://schoolexperience.education.gov.uk/healthcheck 
+    url: https://schoolexperience.education.gov.uk/healthcheck
   - name: Register trainee teachers
     url: https://www.register-trainee-teachers.education.gov.uk/
   - name: Find postgraduate teacher training
@@ -31,6 +31,8 @@ sites:
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
   - name: Qualified Teachers API
     url: https://qualified-teachers-api-prod.london.cloudapps.digital/status
+  - name: Find a lost teacher reference number (TRN)
+    url: https://find-a-lost-trn.education.gov.uk/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
