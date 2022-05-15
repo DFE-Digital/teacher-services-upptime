@@ -292,5 +292,23 @@
     "timeMonth": 459,
     "timeYear": 491,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Find a lost teacher reference number (TRN)",
+    "url": "https://find-a-lost-trn.education.gov.uk/health",
+    "icon": "https://favicons.githubusercontent.com/find-a-lost-trn.education.gov.uk",
+    "slug": "find-a-lost-teacher-reference-number-trn",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
