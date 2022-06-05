@@ -227,10 +227,10 @@
     "url": "https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck",
     "icon": "https://favicons.githubusercontent.com/manage-training-for-early-career-teachers.education.gov.uk",
     "slug": "manage-teacher-cpd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 813,
@@ -238,7 +238,9 @@
     "timeWeek": 1067,
     "timeMonth": 914,
     "timeYear": 813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 1
+    }
   },
   {
     "name": "Support Early Career Teachers",
