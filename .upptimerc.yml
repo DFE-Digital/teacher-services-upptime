@@ -31,8 +31,10 @@ sites:
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
   - name: Qualified Teachers API
     url: https://qualified-teachers-api-prod.london.cloudapps.digital/status
-  - name: Find a lost teacher reference number (TRN)
+  - name: Find a lost TRN
     url: https://find-a-lost-trn.education.gov.uk/health
+  - name: Apply for QTS
+    url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
