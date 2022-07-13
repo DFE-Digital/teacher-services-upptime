@@ -1,7 +1,7 @@
 url: https://api.publish-teacher-training-courses.service.gov.uk/healthcheck
 status: up
 code: 200
-responseTime: 464
-lastUpdated: 2022-07-12T23:04:57.851Z
+responseTime: 585
+lastUpdated: 2022-07-13T23:04:47.604Z
 startTime: Fri Jun 25 2021 10:56:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
