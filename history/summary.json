@@ -326,9 +326,9 @@
     "url": "https://apply-for-qts-in-england.education.gov.uk/healthcheck",
     "icon": "https://favicons.githubusercontent.com/apply-for-qts-in-england.education.gov.uk",
     "slug": "apply-for-qts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -337,6 +337,8 @@
     "timeWeek": 687,
     "timeMonth": 728,
     "timeYear": 734,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-05": 0
+    }
   }
 ]
