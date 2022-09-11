@@ -208,9 +208,9 @@
     "url": "https://teaching-vacancies.service.gov.uk/",
     "icon": "https://favicons.githubusercontent.com/teaching-vacancies.service.gov.uk",
     "slug": "teaching-vacancies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -220,6 +220,7 @@
     "timeMonth": 1039,
     "timeYear": 822,
     "dailyMinutesDown": {
+      "2022-09-11": 0,
       "2021-12-10": 22
     }
   },
