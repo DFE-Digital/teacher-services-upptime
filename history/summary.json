@@ -161,19 +161,19 @@
     "url": "https://www.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all",
     "icon": "https://icons.duckduckgo.com/ip3/www.apply-for-teacher-training.service.gov.uk.ico",
     "slug": "apply-for-teacher-training",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.69%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.98%",
     "time": 646,
-    "timeDay": 689,
-    "timeWeek": 667,
-    "timeMonth": 617,
+    "timeDay": 704,
+    "timeWeek": 674,
+    "timeMonth": 620,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2022-10-25": 0
+      "2022-10-25": 120
     }
   },
   {
