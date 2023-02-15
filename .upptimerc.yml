@@ -35,6 +35,12 @@ sites:
     url: https://find-a-lost-trn.education.gov.uk/health
   - name: Apply for QTS
     url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
+  - name: Teacher self service portals
+    url: https://teacherservices.education.gov.uk/
+  - name: Teacher ID
+    url: https://teaching-identity.education.gov.uk/status
+  - name: TRN Generation API
+    url: http://trn-generation-api.education.gov.uk/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
