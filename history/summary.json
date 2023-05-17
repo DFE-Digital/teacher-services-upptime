@@ -46,18 +46,19 @@
     "url": "https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/get-into-teaching-api-prod.london.cloudapps.digital.ico",
     "slug": "get-into-teaching-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 687,
+    "time": 688,
     "timeDay": 973,
     "timeWeek": 694,
     "timeMonth": 758,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2023-03-25": 6,
       "2022-07-10": 40
     }
@@ -128,7 +129,7 @@
     "timeDay": 747,
     "timeWeek": 589,
     "timeMonth": 631,
-    "timeYear": 705,
+    "timeYear": 706,
     "dailyMinutesDown": {}
   },
   {
