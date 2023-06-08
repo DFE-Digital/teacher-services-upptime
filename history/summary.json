@@ -184,19 +184,19 @@
     "url": "https://api.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "teacher-training-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 640,
-    "timeDay": 434,
-    "timeWeek": 544,
-    "timeMonth": 595,
+    "timeDay": 529,
+    "timeWeek": 563,
+    "timeMonth": 599,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2023-06-08": 0
+      "2023-06-08": 14
     }
   },
   {
