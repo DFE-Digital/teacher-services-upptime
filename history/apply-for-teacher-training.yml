@@ -1,7 +1,7 @@
 url: https://www.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
-status: up
-code: 200
-responseTime: 960
-lastUpdated: 2023-07-07T23:04:49.612Z
+status: down
+code: 500
+responseTime: 11000
+lastUpdated: 2023-07-08T21:13:26.910Z
 startTime: Thu Jul 08 2021 12:43:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
