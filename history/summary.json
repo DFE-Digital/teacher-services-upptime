@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 745,
-    "timeDay": 1181,
-    "timeWeek": 998,
-    "timeMonth": 910,
-    "timeYear": 773,
+    "timeDay": 1155,
+    "timeWeek": 1034,
+    "timeMonth": 921,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2023-01-10": 7,
-      "2022-07-10": 43
+      "2023-01-10": 7
     }
   },
   {
@@ -31,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 758,
-    "timeDay": 905,
-    "timeWeek": 847,
-    "timeMonth": 716,
-    "timeYear": 757,
+    "time": 759,
+    "timeDay": 924,
+    "timeWeek": 838,
+    "timeMonth": 726,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2023-01-10": 7,
-      "2022-07-10": 41
+      "2023-01-10": 7
     }
   },
   {
@@ -52,15 +50,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 709,
-    "timeDay": 913,
-    "timeWeek": 941,
-    "timeMonth": 805,
-    "timeYear": 737,
+    "time": 710,
+    "timeDay": 981,
+    "timeWeek": 927,
+    "timeMonth": 816,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2023-05-17": 5,
-      "2023-03-25": 6,
-      "2022-07-10": 40
+      "2023-03-25": 6
     }
   },
   {
@@ -69,24 +66,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/schoolexperience.education.gov.uk.ico",
     "slug": "school-experience",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
-    "time": 1689,
-    "timeDay": 2141,
-    "timeWeek": 1846,
-    "timeMonth": 1721,
-    "timeYear": 1717,
+    "time": 1690,
+    "timeDay": 1832,
+    "timeWeek": 1865,
+    "timeMonth": 1728,
+    "timeYear": 1718,
     "dailyMinutesDown": {
       "2023-06-22": 5,
       "2023-03-25": 18,
       "2022-10-16": 10,
       "2022-09-12": 14,
       "2022-08-07": 8,
-      "2022-07-21": 92,
-      "2022-07-10": 50
+      "2022-07-21": 92
     }
   },
   {
@@ -100,18 +96,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1464,
-    "timeDay": 1884,
-    "timeWeek": 1605,
-    "timeMonth": 1387,
-    "timeYear": 1567,
+    "time": 1466,
+    "timeDay": 1724,
+    "timeWeek": 1662,
+    "timeMonth": 1402,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2023-02-22": 8,
       "2023-02-15": 11,
       "2022-10-26": 42,
       "2022-10-24": 49,
-      "2022-10-19": 249,
-      "2022-07-10": 37
+      "2022-10-19": 249
     }
   },
   {
@@ -126,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 833,
-    "timeWeek": 750,
-    "timeMonth": 672,
-    "timeYear": 682,
+    "timeDay": 932,
+    "timeWeek": 792,
+    "timeMonth": 682,
+    "timeYear": 683,
     "dailyMinutesDown": {}
   },
   {
@@ -144,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
-    "timeDay": 724,
-    "timeWeek": 684,
-    "timeMonth": 651,
+    "timeDay": 926,
+    "timeWeek": 748,
+    "timeMonth": 661,
     "timeYear": 653,
     "dailyMinutesDown": {}
   },
@@ -157,14 +152,14 @@
     "slug": "apply-for-teacher-training",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 771,
-    "timeDay": 4084,
-    "timeWeek": 1903,
-    "timeMonth": 1230,
+    "timeDay": 789,
+    "timeWeek": 1905,
+    "timeMonth": 1229,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2023-07-08": 6,
@@ -192,11 +187,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 769,
-    "timeWeek": 691,
-    "timeMonth": 628,
-    "timeYear": 646,
+    "time": 642,
+    "timeDay": 800,
+    "timeWeek": 716,
+    "timeMonth": 634,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-06-08": 14
     }
@@ -212,11 +207,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1019,
-    "timeDay": 1314,
-    "timeWeek": 1165,
-    "timeMonth": 1085,
-    "timeYear": 1025,
+    "time": 1020,
+    "timeDay": 1198,
+    "timeWeek": 1181,
+    "timeMonth": 1084,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2023-05-09": 5,
       "2023-02-09": 30,
@@ -234,15 +229,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 999,
-    "timeDay": 1642,
-    "timeWeek": 1605,
-    "timeMonth": 1645,
-    "timeYear": 1032,
+    "time": 1000,
+    "timeDay": 1649,
+    "timeWeek": 1644,
+    "timeMonth": 1649,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2023-03-24": 5,
-      "2023-02-10": 12,
-      "2022-07-10": 35
+      "2023-02-10": 12
     }
   },
   {
@@ -257,9 +251,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 1044,
-    "timeWeek": 988,
-    "timeMonth": 906,
+    "timeDay": 946,
+    "timeWeek": 998,
+    "timeMonth": 908,
     "timeYear": 857,
     "dailyMinutesDown": {}
   },
@@ -274,10 +268,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 690,
-    "timeWeek": 630,
-    "timeMonth": 591,
+    "time": 582,
+    "timeDay": 752,
+    "timeWeek": 640,
+    "timeMonth": 599,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2022-08-19": 18
@@ -295,9 +289,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 568,
-    "timeDay": 677,
-    "timeWeek": 709,
-    "timeMonth": 623,
+    "timeDay": 859,
+    "timeWeek": 738,
+    "timeMonth": 630,
     "timeYear": 579,
     "dailyMinutesDown": {}
   },
@@ -313,9 +307,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 615,
-    "timeDay": 750,
-    "timeWeek": 695,
-    "timeMonth": 619,
+    "timeDay": 734,
+    "timeWeek": 689,
+    "timeMonth": 627,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2022-09-05": 6,
@@ -329,15 +323,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/apply-for-qts-in-england.education.gov.uk.ico",
     "slug": "apply-for-qts",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 909,
-    "timeDay": 774,
-    "timeWeek": 717,
-    "timeMonth": 685,
+    "time": 910,
+    "timeDay": 1074,
+    "timeWeek": 779,
+    "timeMonth": 697,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2023-02-01": 510,
