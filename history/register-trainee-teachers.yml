@@ -1,7 +1,7 @@
 url: https://www.register-trainee-teachers.education.gov.uk/
-status: up
-code: 200
-responseTime: 1507
-lastUpdated: 2023-07-24T23:04:33.212Z
+status: down
+code: 502
+responseTime: 2288
+lastUpdated: 2023-07-25T16:16:33.363Z
 startTime: Fri Jun 25 2021 10:56:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
