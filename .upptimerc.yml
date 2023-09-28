@@ -30,7 +30,7 @@ sites:
   - name: Claim Additional Payments for Teachers
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
   - name: Qualified Teachers API
-    url: https://qualified-teachers-api-prod.london.cloudapps.digital/status
+    url: https://teacher-qualifications-api.education.gov.uk/status
   - name: Find a lost TRN
     url: https://find-a-lost-trn.education.gov.uk/health
   - name: Apply for QTS
