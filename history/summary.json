@@ -293,18 +293,20 @@
     "url": "https://support-for-early-career-teachers.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/support-for-early-career-teachers.education.gov.uk.ico",
     "slug": "support-early-career-teachers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
+    "time": 935,
     "timeDay": 1383,
     "timeWeek": 1764,
     "timeMonth": 1331,
     "timeYear": 961,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   },
   {
     "name": "Claim Additional Payments for Teachers",
@@ -332,7 +334,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/teacher-qualifications-api.education.gov.uk.ico",
     "slug": "qualified-teachers-api",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
