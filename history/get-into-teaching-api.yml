@@ -1,7 +1,7 @@
 url: https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check
 status: down
 code: 404
-responseTime: 868
-lastUpdated: 2023-11-16T23:04:31.032Z
+responseTime: 507
+lastUpdated: 2023-11-17T23:04:27.345Z
 startTime: 2021-06-25T10:56:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
