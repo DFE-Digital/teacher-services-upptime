@@ -1,7 +1,7 @@
 url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
-status: down
-code: 502
-responseTime: 549
-lastUpdated: 2023-11-18T07:48:13.076Z
+status: up
+code: 200
+responseTime: 390
+lastUpdated: 2023-11-18T07:54:27.432Z
 startTime: 2022-06-20T16:46:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
