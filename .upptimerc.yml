@@ -8,7 +8,7 @@ sites:
   - name: Get into teaching - Adviser
     url: https://adviser-getintoteaching.education.gov.uk/
   - name: Get into teaching - API
-    url: https://get-into-teaching-api-prod.london.cloudapps.digital/api/operations/health_check
+    url: https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check
   - name: School Experience
     url: https://schoolexperience.education.gov.uk/healthcheck
   - name: Register trainee teachers
