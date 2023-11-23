@@ -33,6 +33,12 @@ sites:
     url: https://find-a-lost-trn.education.gov.uk/health
   - name: Apply for QTS
     url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
+  - name: Register for an NPQ
+    url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
+  - name: Support for early career teachers
+    url: https://support-for-early-career-teachers.education.gov.uk/
+  - name: Find a teaching school hub
+    url: https://find-a-teaching-school-hub.education.gov.uk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
