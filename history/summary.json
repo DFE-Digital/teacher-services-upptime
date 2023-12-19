@@ -28,9 +28,9 @@
     "url": "https://adviser-getintoteaching.education.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/adviser-getintoteaching.education.gov.uk.ico",
     "slug": "get-into-teaching-adviser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.88%",
@@ -83,8 +83,7 @@
       "2023-11-06": 27,
       "2023-11-05": 17,
       "2023-11-04": 5,
-      "2023-11-03": 5,
-      "2023-10-21": 7
+      "2023-11-03": 5
     }
   },
   {
@@ -117,12 +116,12 @@
     "slug": "school-experience",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "65.68%",
+    "uptimeDay": "66.28%",
     "uptimeWeek": "94.92%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.86%",
     "time": 2908,
-    "timeDay": 16093,
+    "timeDay": 16491,
     "timeWeek": 14725,
     "timeMonth": 9768,
     "timeYear": 3242,
