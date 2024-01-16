@@ -29,15 +29,15 @@
     "url": "https://adviser-getintoteaching.education.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/adviser-getintoteaching.education.gov.uk.ico",
     "slug": "get-into-teaching-adviser",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.88%",
-    "time": 729,
-    "timeDay": 543,
-    "timeWeek": 516,
+    "time": 728,
+    "timeDay": 525,
+    "timeWeek": 517,
     "timeMonth": 515,
     "timeYear": 705,
     "dailyMinutesDown": {
@@ -83,8 +83,7 @@
       "2023-12-03": 13,
       "2023-12-02": 18,
       "2023-12-01": 23,
-      "2023-11-29": 22,
-      "2023-11-28": 5
+      "2023-11-29": 22
     }
   },
   {
@@ -152,7 +151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.register-trainee-teachers.education.gov.uk.ico",
     "slug": "register-trainee-teachers",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
