@@ -33,6 +33,10 @@ sites:
     url: https://find-a-lost-trn.education.gov.uk/health
   - name: Apply for QTS
     url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
+  - name: Get a Teacher Relocation Payment
+    url: https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all
+  - name: Access Your Teaching Qualification
+    url: https://access-your-teaching-qualifications.education.gov.uk/health/all
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
