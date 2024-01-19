@@ -37,7 +37,10 @@ sites:
     url: https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all
   - name: Access Your Teaching Qualification
     url: https://access-your-teaching-qualifications.education.gov.uk/health/all
-
+  - name: Register For a National Professional Qualification
+    url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
+  - name: Find a Teaching School Hub
+    url: https://find-a-teaching-school-hub.education.gov.uk/healthcheck
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
