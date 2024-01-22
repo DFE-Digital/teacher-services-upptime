@@ -27,7 +27,7 @@ sites:
     url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
   - name: Claim Additional Payments for Teachers
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
-  - name: Qualified Teachers API
+  - name: Teaching Record System / Teacher Qualifications API
     url: https://teacher-qualifications-api.education.gov.uk/status
   - name: Find a lost TRN
     url: https://find-a-lost-trn.education.gov.uk/health
@@ -43,6 +43,10 @@ sites:
     url: https://support-for-early-career-teachers.education.gov.uk/
   - name: Find a Teaching School Hub
     url: https://find-a-teaching-school-hub.education.gov.uk/healthcheck
+  - name: Teacher Services Portals (DQT)
+    url: https://teacherservices.education.gov.uk/
+  - name: Teaching Identity
+    url: https://teaching-identity.education.gov.uk/status
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
