@@ -47,6 +47,8 @@ sites:
     url: https://teacherservices.education.gov.uk/
   - name: Teaching Identity
     url: https://teaching-identity.education.gov.uk/status
+  - name: TRN Generation API
+    url: https://trn-generation-api.education.gov.uk/health
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
