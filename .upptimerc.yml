@@ -39,6 +39,8 @@ sites:
     url: https://access-your-teaching-qualifications.education.gov.uk/health/all
   - name: Register For a National Professional Qualification
     url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
+  - name: Support For Early Career Teachers
+    url: https://support-for-early-career-teachers.education.gov.uk/
   - name: Find a Teaching School Hub
     url: https://find-a-teaching-school-hub.education.gov.uk/healthcheck
 status-website:
