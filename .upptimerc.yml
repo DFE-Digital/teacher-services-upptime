@@ -5,8 +5,6 @@ repo: teacher-services-upptime # The name of this repository
 sites:
   - name: Get into teaching
     url: https://getintoteaching.education.gov.uk/
-  - name: Get into teaching - Adviser
-    url: https://adviser-getintoteaching.education.gov.uk/
   - name: Get into teaching - API
     url: https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check
   - name: School Experience
