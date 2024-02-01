@@ -9,6 +9,10 @@ sites:
     url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
   - name: Apply for teacher training
     url: https://www.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
+  - name: Check a teacher's record
+    url: https://check-a-teachers-record.education.gov.uk/health
+  - name: Check the children's barred list
+    url: https://check-the-childrens-barred-list.education.gov.uk/healthcheck
   - name: Claim Additional Payments for Teachers
     url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
   - name: Find a lost TRN
