@@ -3,48 +3,48 @@ owner: DFE-Digital # Your GitHub organization or username, where this repository
 repo: teacher-services-upptime # The name of this repository
 
 sites:
+  - name: Access your teaching qualifications
+    url: https://access-your-teaching-qualifications.education.gov.uk/health/all
+  - name: Apply for qualified teacher status
+    url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
+  - name: Apply for teacher training
+    url: https://www.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
+  - name: Claim Additional Payments for Teachers
+    url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
+  - name: Find a lost TRN
+    url: https://find-a-lost-trn.education.gov.uk/health
+  - name: Find a Teaching School Hub
+    url: https://find-a-teaching-school-hub.education.gov.uk/healthcheck
+  - name: Find postgraduate teacher training
+    url: https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck
+  - name: Get a Teacher Relocation Payment
+    url: https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all
   - name: Get into teaching
     url: https://getintoteaching.education.gov.uk/
   - name: Get into teaching - API
     url: https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check
-  - name: School Experience
-    url: https://schoolexperience.education.gov.uk/healthcheck
-  - name: Register trainee teachers
-    url: https://www.register-trainee-teachers.education.gov.uk/
-  - name: Find postgraduate teacher training
-    url: https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck
+  - name: Manage Teacher CPD
+    url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
   - name: Publish teacher training courses
     url: https://www.publish-teacher-training-courses.service.gov.uk/healthcheck
-  - name: Apply for teacher training
-    url: https://www.apply-for-teacher-training.service.gov.uk/integrations/monitoring/all
+  - name: Register For a National Professional Qualification
+    url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
+  - name: Register trainee teachers
+    url: https://www.register-trainee-teachers.education.gov.uk/
+  - name: School Experience
+    url: https://schoolexperience.education.gov.uk/healthcheck
+  - name: Support For Early Career Teachers
+    url: https://support-for-early-career-teachers.education.gov.uk/
+  - name: Teaching Identity
+    url: https://teaching-identity.education.gov.uk/status
+  - name: Teaching Record System / Teacher Qualifications API
+    url: https://teacher-qualifications-api.education.gov.uk/status
+  - name: Teacher Services Portals (DQT)
+    url: https://teacherservices.education.gov.uk/
   - name: Teacher training API
     url: https://api.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Teaching Vacancies
     url: https://teaching-vacancies.service.gov.uk/
-  - name: Manage Teacher CPD
-    url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
-  - name: Claim Additional Payments for Teachers
-    url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
-  - name: Teaching Record System / Teacher Qualifications API
-    url: https://teacher-qualifications-api.education.gov.uk/status
-  - name: Find a lost TRN
-    url: https://find-a-lost-trn.education.gov.uk/health
-  - name: Apply for QTS
-    url: https://apply-for-qts-in-england.education.gov.uk/healthcheck
-  - name: Get a Teacher Relocation Payment
-    url: https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all
-  - name: Access Your Teaching Qualification
-    url: https://access-your-teaching-qualifications.education.gov.uk/health/all
-  - name: Register For a National Professional Qualification
-    url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
-  - name: Support For Early Career Teachers
-    url: https://support-for-early-career-teachers.education.gov.uk/
-  - name: Find a Teaching School Hub
-    url: https://find-a-teaching-school-hub.education.gov.uk/healthcheck
-  - name: Teacher Services Portals (DQT)
-    url: https://teacherservices.education.gov.uk/
-  - name: Teaching Identity
-    url: https://teaching-identity.education.gov.uk/status
   - name: TRN Generation API
     url: https://trn-generation-api.education.gov.uk/health
 status-website:
