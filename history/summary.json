@@ -481,9 +481,9 @@
     "url": "https://teacherservices.education.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/teacherservices.education.gov.uk.ico",
     "slug": "teacher-services-portals-dqt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.90%",
@@ -493,6 +493,7 @@
     "timeMonth": 891,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2024-02-08": 0,
       "2024-01-23": 39,
       "2024-01-22": 222
     }
