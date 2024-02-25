@@ -1,7 +1,7 @@
 url: https://teacherservices.education.gov.uk/
-status: up
-code: 200
-responseTime: 797
-lastUpdated: 2024-02-24T23:04:45.811Z
+status: down
+code: 500
+responseTime: 11729
+lastUpdated: 2024-02-25T11:15:00.772Z
 startTime: 2024-01-22T14:45:01.744Z
 generator: Upptime <https://github.com/upptime/upptime>
