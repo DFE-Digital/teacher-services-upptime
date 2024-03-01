@@ -1,7 +1,7 @@
 url: https://teacher-qualifications-api.education.gov.uk/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-01T00:14:28.273Z
+status: up
+code: 200
+responseTime: 354
+lastUpdated: 2024-03-01T09:43:32.825Z
 startTime: 2024-01-22T14:44:55.346Z
 generator: Upptime <https://github.com/upptime/upptime>
