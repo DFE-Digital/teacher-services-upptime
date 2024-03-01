@@ -484,11 +484,11 @@
     "url": "https://teacher-qualifications-api.education.gov.uk/status",
     "icon": "https://icons.duckduckgo.com/ip3/teacher-qualifications-api.education.gov.uk.ico",
     "slug": "teaching-record-system-teacher-qualifications-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 565,
     "timeDay": 490,
@@ -496,6 +496,7 @@
     "timeMonth": 550,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2024-03-01": 1,
       "2024-02-21": 6
     }
   },
