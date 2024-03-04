@@ -29,6 +29,8 @@ sites:
     url: https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check
   - name: Manage Teacher CPD
     url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
+  - name: Professional development for teachers and leaders
+    url: http://professional-development-for-teachers-leaders.education.gov.uk/
   - name: Publish teacher training courses
     url: https://www.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Register For a National Professional Qualification
