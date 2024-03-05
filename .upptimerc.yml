@@ -33,6 +33,8 @@ sites:
     url: http://professional-development-for-teachers-leaders.education.gov.uk/
   - name: Publish teacher training courses
     url: https://www.publish-teacher-training-courses.service.gov.uk/healthcheck
+  - name: Refer serious misconduct
+    url: https://refer-serious-misconduct.education.gov.uk/health/all
   - name: Register For a National Professional Qualification
     url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
   - name: Register trainee teachers
