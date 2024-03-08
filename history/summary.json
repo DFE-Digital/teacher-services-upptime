@@ -332,18 +332,20 @@
     "url": "http://professional-development-for-teachers-leaders.education.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/professional-development-for-teachers-leaders.education.gov.uk.ico",
     "slug": "professional-development-for-teachers-and-leaders",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1184,
     "timeDay": 1123,
     "timeWeek": 1184,
     "timeMonth": 1184,
     "timeYear": 1184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-08": 0
+    }
   },
   {
     "name": "Publish teacher training courses",
