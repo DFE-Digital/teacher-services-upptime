@@ -13,7 +13,7 @@
     "time": 920,
     "timeDay": 615,
     "timeWeek": 761,
-    "timeMonth": 895,
+    "timeMonth": 896,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2024-03-12": 6
@@ -33,7 +33,7 @@
     "time": 569,
     "timeDay": 405,
     "timeWeek": 515,
-    "timeMonth": 530,
+    "timeMonth": 527,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2024-02-21": 8
@@ -53,7 +53,7 @@
     "time": 774,
     "timeDay": 476,
     "timeWeek": 548,
-    "timeMonth": 790,
+    "timeMonth": 788,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2024-02-29": 85,
@@ -84,7 +84,7 @@
     "time": 642,
     "timeDay": 415,
     "timeWeek": 590,
-    "timeMonth": 695,
+    "timeMonth": 691,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2024-03-12": 6
@@ -104,7 +104,7 @@
     "time": 611,
     "timeDay": 395,
     "timeWeek": 447,
-    "timeMonth": 492,
+    "timeMonth": 488,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2024-02-21": 8
@@ -124,7 +124,7 @@
     "time": 626,
     "timeDay": 417,
     "timeWeek": 549,
-    "timeMonth": 599,
+    "timeMonth": 596,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2024-02-27": 6,
@@ -146,7 +146,7 @@
     "time": 615,
     "timeDay": 450,
     "timeWeek": 499,
-    "timeMonth": 506,
+    "timeMonth": 502,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2024-02-21": 8,
@@ -169,7 +169,7 @@
     "time": 513,
     "timeDay": 366,
     "timeWeek": 408,
-    "timeMonth": 477,
+    "timeMonth": 472,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2024-02-21": 8,
@@ -191,7 +191,7 @@
     "time": 650,
     "timeDay": 495,
     "timeWeek": 508,
-    "timeMonth": 492,
+    "timeMonth": 493,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2024-03-22": 9,
@@ -218,7 +218,7 @@
     "time": 594,
     "timeDay": 465,
     "timeWeek": 441,
-    "timeMonth": 480,
+    "timeMonth": 476,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-03-22": 9,
@@ -241,7 +241,7 @@
     "time": 846,
     "timeDay": 633,
     "timeWeek": 632,
-    "timeMonth": 695,
+    "timeMonth": 689,
     "timeYear": 872,
     "dailyMinutesDown": {
       "2024-03-29": 16,
@@ -276,7 +276,7 @@
     "time": 1030,
     "timeDay": 1273,
     "timeWeek": 1646,
-    "timeMonth": 974,
+    "timeMonth": 986,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-02-21": 7,
@@ -299,7 +299,7 @@
     "time": 1205,
     "timeDay": 920,
     "timeWeek": 852,
-    "timeMonth": 877,
+    "timeMonth": 878,
     "timeYear": 1261,
     "dailyMinutesDown": {
       "2024-02-21": 7,
@@ -340,15 +340,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/professional-development-for-teachers-leaders.education.gov.uk.ico",
     "slug": "professional-development-for-teachers-and-leaders",
     "status": "up",
-    "uptime": "95.50%",
+    "uptime": "95.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.28%",
-    "uptimeYear": "95.50%",
+    "uptimeYear": "95.51%",
     "time": 1337,
     "timeDay": 882,
     "timeWeek": 1094,
-    "timeMonth": 1342,
+    "timeMonth": 1326,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2024-03-09": 639,
@@ -369,7 +369,7 @@
     "time": 622,
     "timeDay": 342,
     "timeWeek": 453,
-    "timeMonth": 471,
+    "timeMonth": 469,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2024-02-21": 7,
@@ -392,7 +392,7 @@
     "time": 623,
     "timeDay": 550,
     "timeWeek": 566,
-    "timeMonth": 623,
+    "timeMonth": 621,
     "timeYear": 623,
     "dailyMinutesDown": {}
   },
@@ -410,7 +410,7 @@
     "time": 553,
     "timeDay": 492,
     "timeWeek": 471,
-    "timeMonth": 498,
+    "timeMonth": 496,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2024-02-21": 7,
@@ -433,7 +433,7 @@
     "time": 1474,
     "timeDay": 725,
     "timeWeek": 879,
-    "timeMonth": 983,
+    "timeMonth": 981,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2024-03-27": 6,
@@ -454,16 +454,16 @@
     "url": "https://schoolexperience.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/schoolexperience.education.gov.uk.ico",
     "slug": "school-experience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.65%",
-    "time": 2874,
+    "time": 2876,
     "timeDay": 8306,
     "timeWeek": 3981,
-    "timeMonth": 2531,
+    "timeMonth": 2536,
     "timeYear": 3319,
     "dailyMinutesDown": {
       "2024-04-05": 5,
@@ -524,7 +524,7 @@
     "time": 580,
     "timeDay": 551,
     "timeWeek": 705,
-    "timeMonth": 573,
+    "timeMonth": 572,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2024-01-24": 65
@@ -544,7 +544,7 @@
     "time": 496,
     "timeDay": 388,
     "timeWeek": 408,
-    "timeMonth": 416,
+    "timeMonth": 414,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2024-03-01": 569,
@@ -565,7 +565,7 @@
     "time": 1170,
     "timeDay": 895,
     "timeWeek": 857,
-    "timeMonth": 958,
+    "timeMonth": 957,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2024-04-02": 6,
@@ -591,7 +591,7 @@
     "time": 600,
     "timeDay": 381,
     "timeWeek": 427,
-    "timeMonth": 526,
+    "timeMonth": 534,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2024-02-21": 6,
@@ -613,7 +613,7 @@
     "time": 1067,
     "timeDay": 741,
     "timeWeek": 885,
-    "timeMonth": 918,
+    "timeMonth": 905,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2024-02-21": 6,
@@ -637,7 +637,7 @@
     "time": 561,
     "timeDay": 357,
     "timeWeek": 606,
-    "timeMonth": 549,
+    "timeMonth": 547,
     "timeYear": 561,
     "dailyMinutesDown": {}
   }
