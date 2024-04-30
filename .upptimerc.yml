@@ -67,7 +67,7 @@ status-website:
     Updated every 5 min.
   navbar:
     - title: Status
-      href: /teacher-services-upptime/
+      href: https://teacher-services-status.education.gov.uk
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
