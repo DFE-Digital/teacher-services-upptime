@@ -1,7 +1,7 @@
 url: https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck
-status: down
-code: 503
-responseTime: 632
-lastUpdated: 2024-05-05T03:30:56.359Z
+status: up
+code: 200
+responseTime: 722
+lastUpdated: 2024-05-05T03:37:08.079Z
 startTime: 2021-06-25T10:56:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
