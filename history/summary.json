@@ -389,19 +389,19 @@
     "url": "https://refer-serious-misconduct.education.gov.uk/health/all",
     "icon": "https://icons.duckduckgo.com/ip3/refer-serious-misconduct.education.gov.uk.ico",
     "slug": "refer-serious-misconduct",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 2164,
-    "timeWeek": 961,
-    "timeMonth": 660,
-    "timeYear": 641,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 644,
+    "timeDay": 1713,
+    "timeWeek": 945,
+    "timeMonth": 665,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2024-05-07": 1
+      "2024-05-07": 6
     }
   },
   {
