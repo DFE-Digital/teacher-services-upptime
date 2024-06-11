@@ -41,6 +41,8 @@ sites:
     url: https://www.register-trainee-teachers.education.gov.uk/
   - name: School Experience
     url: https://schoolexperience.education.gov.uk/healthcheck
+  - name: Manage school placements
+    url: https://manage-school-placements.education.gov.uk/healthcheck/all
   - name: Support For Early Career Teachers
     url: https://support-for-early-career-teachers.education.gov.uk/
   - name: Teaching Identity
