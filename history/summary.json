@@ -344,11 +344,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/professional-development-for-teachers-leaders.education.gov.uk.ico",
     "slug": "professional-development-for-teachers-and-leaders",
     "status": "up",
-    "uptime": "98.54%",
+    "uptime": "98.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.55%",
     "time": 1159,
     "timeDay": 1511,
     "timeWeek": 1482,
@@ -512,6 +512,26 @@
       "2023-07-18": 24,
       "2023-07-11": 58,
       "2023-06-22": 5
+    }
+  },
+  {
+    "name": "Manage school placements",
+    "url": "https://manage-school-placements.education.gov.uk/healthcheck/all",
+    "icon": "https://icons.duckduckgo.com/ip3/manage-school-placements.education.gov.uk.ico",
+    "slug": "manage-school-placements",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-06-11": 1
     }
   },
   {
