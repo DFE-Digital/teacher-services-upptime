@@ -1,7 +1,7 @@
 url: https://check-a-teachers-record.education.gov.uk/health
-status: up
-code: 200
-responseTime: 547
-lastUpdated: 2024-07-19T23:04:47.795Z
+status: down
+code: 502
+responseTime: 605
+lastUpdated: 2024-07-20T08:45:35.234Z
 startTime: 2024-02-02T09:35:42.789Z
 generator: Upptime <https://github.com/upptime/upptime>
