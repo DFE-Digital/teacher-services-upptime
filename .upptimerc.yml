@@ -59,6 +59,8 @@ sites:
     url: https://trn-generation-api.education.gov.uk/health
   - name: TRN Generation API Test
     url: https://trn-generation-api.education.gov.uk/health123
+  - name: Teaching Record System / Teacher Qualifications API testjay
+    url: https://teacher-qualifications-api.education.gov.uk/status22
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
