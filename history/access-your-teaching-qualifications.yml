@@ -1,7 +1,7 @@
 url: https://access-your-teaching-qualifications.education.gov.uk/health/all
-status: down
-code: 504
-responseTime: 4177
-lastUpdated: 2024-08-15T05:49:51.774Z
+status: up
+code: 200
+responseTime: 1187
+lastUpdated: 2024-08-15T05:55:59.099Z
 startTime: 2024-02-02T09:35:39.286Z
 generator: Upptime <https://github.com/upptime/upptime>
