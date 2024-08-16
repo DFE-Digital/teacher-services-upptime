@@ -51,6 +51,9 @@ sites:
     url: https://teacher-qualifications-api.education.gov.uk/status
   - name: Teacher Services Portals (DQT)
     url: https://teacherservices.education.gov.uk/
+    expectedStatusCodes:
+        - 200
+        - 500
   - name: Teacher training API
     url: https://api.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Teaching Vacancies
