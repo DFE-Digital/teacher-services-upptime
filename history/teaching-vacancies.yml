@@ -1,7 +1,7 @@
 url: https://teaching-vacancies.service.gov.uk/
-status: up
-code: 200
-responseTime: 1219
-lastUpdated: 2024-11-15T21:34:25.797Z
+status: down
+code: 503
+responseTime: 463
+lastUpdated: 2024-11-15T22:58:48.868Z
 startTime: 2021-06-25T10:56:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
