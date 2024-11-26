@@ -441,10 +441,10 @@
     "url": "https://refer-serious-misconduct.education.gov.uk/health/all",
     "icon": "https://icons.duckduckgo.com/ip3/refer-serious-misconduct.education.gov.uk.ico",
     "slug": "refer-serious-misconduct",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 612,
@@ -453,6 +453,7 @@
     "timeMonth": 575,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2024-11-26": 1,
       "2024-06-15": 9,
       "2024-06-14": 5,
       "2024-05-07": 6
