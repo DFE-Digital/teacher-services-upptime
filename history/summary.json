@@ -259,10 +259,10 @@
     "url": "https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all",
     "icon": "https://icons.duckduckgo.com/ip3/get-a-teacher-relocation-payment.education.gov.uk.ico",
     "slug": "get-a-teacher-relocation-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
@@ -271,6 +271,7 @@
     "timeMonth": 499,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2025-03-03": 1,
       "2024-07-22": 6,
       "2024-07-11": 8,
       "2024-03-22": 9
