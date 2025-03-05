@@ -1,7 +1,7 @@
 url: https://claim-additional-teaching-payment.service.gov.uk/healthcheck
-status: down
-code: 500
-responseTime: 518
-lastUpdated: 2025-03-05T09:27:07.441Z
+status: up
+code: 200
+responseTime: 490
+lastUpdated: 2025-03-05T16:32:18.935Z
 startTime: 2021-06-28T09:16:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
