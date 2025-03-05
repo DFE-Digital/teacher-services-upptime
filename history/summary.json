@@ -43,7 +43,7 @@
     "timeDay": 399,
     "timeWeek": 428,
     "timeMonth": 684,
-    "timeYear": 516,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2024-06-18": 5,
       "2024-06-14": 6
@@ -86,7 +86,7 @@
     "timeDay": 323,
     "timeWeek": 407,
     "timeMonth": 570,
-    "timeYear": 590,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2025-02-17": 9,
       "2024-10-14": 7,
@@ -124,19 +124,19 @@
     "url": "https://claim-additional-teaching-payment.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/claim-additional-teaching-payment.service.gov.uk.ico",
     "slug": "claim-additional-payments-for-teachers",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.17%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "70.47%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "98.09%",
     "time": 642,
-    "timeDay": 519,
-    "timeWeek": 531,
-    "timeMonth": 693,
-    "timeYear": 624,
+    "timeDay": 509,
+    "timeWeek": 527,
+    "timeMonth": 687,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-03-05": 1,
+      "2025-03-05": 425,
       "2025-02-14": 8,
       "2025-01-09": 5,
       "2025-01-08": 669,
@@ -189,7 +189,7 @@
     "timeDay": 421,
     "timeWeek": 395,
     "timeMonth": 455,
-    "timeYear": 469,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2024-11-04": 6,
       "2024-07-30": 11
@@ -226,12 +226,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 628,
     "timeDay": 435,
     "timeWeek": 588,
-    "timeMonth": 643,
+    "timeMonth": 641,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2025-02-28": 10,
@@ -329,7 +329,7 @@
     "timeDay": 1396,
     "timeWeek": 793,
     "timeMonth": 673,
-    "timeYear": 861,
+    "timeYear": 862,
     "dailyMinutesDown": {}
   },
   {
@@ -390,7 +390,7 @@
     "timeDay": 594,
     "timeWeek": 810,
     "timeMonth": 1159,
-    "timeYear": 1078,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2024-03-09": 639,
       "2024-03-08": 1427
@@ -405,12 +405,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 528,
     "timeDay": 346,
     "timeWeek": 404,
-    "timeMonth": 475,
+    "timeMonth": 479,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2025-02-27": 7,
@@ -519,7 +519,7 @@
     "timeDay": 1371,
     "timeWeek": 1739,
     "timeMonth": 1757,
-    "timeYear": 2199,
+    "timeYear": 2198,
     "dailyMinutesDown": {
       "2024-12-03": 6,
       "2024-11-01": 1,
@@ -596,7 +596,7 @@
     "timeDay": 548,
     "timeWeek": 384,
     "timeMonth": 461,
-    "timeYear": 431,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2024-08-23": 7,
       "2024-07-30": 5,
@@ -653,7 +653,7 @@
     "timeDay": 552,
     "timeWeek": 637,
     "timeMonth": 747,
-    "timeYear": 882,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-01-24": 15,
       "2025-01-20": 12,
