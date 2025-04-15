@@ -319,18 +319,20 @@
     "url": "https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check",
     "icon": "https://icons.duckduckgo.com/ip3/getintoteachingapi-production.teacherservices.cloud.ico",
     "slug": "get-into-teaching-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 923,
+    "time": 867,
     "timeDay": 436,
     "timeWeek": 500,
     "timeMonth": 681,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 1
+    }
   },
   {
     "name": "Manage school placements",
