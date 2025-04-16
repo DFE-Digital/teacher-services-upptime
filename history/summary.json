@@ -126,13 +126,13 @@
     "status": "up",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.83%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "98.08%",
     "time": 647,
     "timeDay": 665,
-    "timeWeek": 739,
-    "timeMonth": 652,
+    "timeWeek": 757,
+    "timeMonth": 657,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-04-09": 65,
@@ -260,6 +260,24 @@
       "2024-05-05": 6,
       "2024-04-30": 6
     }
+  },
+  {
+    "name": "Find teacher training courses",
+    "url": "https://find-teacher-training-courses.service.gov.uk/healthcheck",
+    "icon": "https://icons.duckduckgo.com/ip3/find-teacher-training-courses.service.gov.uk.ico",
+    "slug": "find-teacher-training-courses",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Get a Teacher Relocation Payment",
