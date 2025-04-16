@@ -21,8 +21,8 @@ sites:
     url: https://find-a-lost-trn.education.gov.uk/health
   - name: Find a Teaching School Hub
     url: https://find-a-teaching-school-hub.education.gov.uk/healthcheck
-  - name: Find postgraduate teacher training
-    url: https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck
+  - name: Find teacher training courses
+    url: https://find-teacher-training-courses.service.gov.uk/healthcheck
   - name: Get a Teacher Relocation Payment
     url: https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all
   - name: Get into teaching
