@@ -1,7 +1,7 @@
 url: https://teaching-identity.education.gov.uk/status
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2025-09-11T23:05:45.196Z
+status: down
+code: 504
+responseTime: 4076
+lastUpdated: 2025-09-12T18:18:46.952Z
 startTime: 2024-01-22T14:45:02.913Z
 generator: Upptime <https://github.com/upptime/upptime>
