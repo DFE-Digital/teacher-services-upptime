@@ -57,8 +57,6 @@ sites:
     url: https://api.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Teaching Vacancies
     url: https://teaching-vacancies.service.gov.uk/
-  - name: TRN Generation API
-    url: https://trn-generation-api.education.gov.uk/health
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
