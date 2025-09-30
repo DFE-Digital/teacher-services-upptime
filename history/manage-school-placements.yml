@@ -1,7 +1,7 @@
 url: https://manage-school-placements.education.gov.uk/healthcheck/all
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2025-09-29T23:05:57.029Z
+status: down
+code: 404
+responseTime: 480
+lastUpdated: 2025-09-30T14:17:31.671Z
 startTime: 2024-06-11T13:53:06.523Z
 generator: Upptime <https://github.com/upptime/upptime>
