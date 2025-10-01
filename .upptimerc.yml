@@ -31,8 +31,6 @@ sites:
     url: https://getintoteaching.education.gov.uk/
   - name: Get into teaching - API
     url: https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check
-  - name: Manage school placements
-    url: https://manage-school-placements.education.gov.uk/healthcheck/all
   - name: Manage Teacher CPD
     url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
   - name: Professional development for teachers and leaders
