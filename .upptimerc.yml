@@ -41,6 +41,8 @@ sites:
     url: https://refer-serious-misconduct.education.gov.uk/health/all
   - name: Register For a National Professional Qualification
     url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
+  - name: Register of Training Providers
+    url: https://register-of-training-providers.education.gov.uk/healthcheck
   - name: Register trainee teachers
     url: https://www.register-trainee-teachers.education.gov.uk/
   - name: School Experience
