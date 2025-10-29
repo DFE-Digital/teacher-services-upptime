@@ -4,11 +4,11 @@
     "url": "https://access-your-teaching-qualifications.education.gov.uk/health/all",
     "icon": "https://icons.duckduckgo.com/ip3/access-your-teaching-qualifications.education.gov.uk.ico",
     "slug": "access-your-teaching-qualifications",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "81.29%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "81.17%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "96.36%",
     "time": 762,
     "timeDay": 2775,
@@ -16,7 +16,7 @@
     "timeMonth": 997,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-10-29": 270,
+      "2025-10-29": 272,
       "2025-10-09": 47,
       "2025-09-10": 9,
       "2025-08-15": 6,
@@ -223,9 +223,9 @@
     "slug": "claim-funding-for-mentor-training",
     "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "77.34%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "76.67%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "98.71%",
     "time": 548,
     "timeDay": 3497,
@@ -233,7 +233,7 @@
     "timeMonth": 794,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2025-10-29": 326,
+      "2025-10-29": 335,
       "2025-09-10": 7,
       "2025-08-26": 640,
       "2025-08-25": 1440,
@@ -723,10 +723,10 @@
     "url": "https://find-placement-schools.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/find-placement-schools.education.gov.uk.ico",
     "slug": "find-placement-schools",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "79.25%",
+    "uptimeWeek": "97.04%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.73%",
     "time": 533,
@@ -735,7 +735,7 @@
     "timeMonth": 533,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-10-29": 298
+      "2025-10-29": 299
     }
   },
   {
@@ -743,11 +743,11 @@
     "url": "https://www.register-trainee-teachers.education.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.register-trainee-teachers.education.gov.uk.ico",
     "slug": "register-trainee-teachers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "77.66%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "77.61%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.94%",
     "time": 849,
     "timeDay": 1093,
@@ -755,7 +755,7 @@
     "timeMonth": 686,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2025-10-29": 321
+      "2025-10-29": 322
     }
   },
   {
