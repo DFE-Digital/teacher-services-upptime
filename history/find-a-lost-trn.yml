@@ -1,7 +1,7 @@
 url: https://find-a-lost-trn.education.gov.uk/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-29T20:36:31.017Z
+status: up
+code: 200
+responseTime: 579
+lastUpdated: 2025-10-29T21:05:52.651Z
 startTime: 2022-06-20T16:46:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
