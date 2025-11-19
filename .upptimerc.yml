@@ -59,6 +59,8 @@ sites:
     url: https://api.publish-teacher-training-courses.service.gov.uk/healthcheck
   - name: Teaching Vacancies
     url: https://teaching-vacancies.service.gov.uk/
+  - name: SAP Public
+    url: https://sap-public-production.teacherservices.cloud/healthcheck
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
