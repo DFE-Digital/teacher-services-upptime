@@ -25,8 +25,6 @@ sites:
     url: https://find-teacher-training-courses.service.gov.uk/healthcheck
   - name: Find postgraduate teacher training
     url: https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck
-  - name: Get a Teacher Relocation Payment
-    url: https://get-a-teacher-relocation-payment.education.gov.uk/healthcheck/all
   - name: Get into teaching
     url: https://getintoteaching.education.gov.uk/
   - name: Get into teaching - API
