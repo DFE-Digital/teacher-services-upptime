@@ -262,16 +262,16 @@
     "url": "https://find-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/find-teacher-training-courses.service.gov.uk.ico",
     "slug": "find-teacher-training-courses",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.79%",
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "92.08%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.58%",
     "time": 635,
-    "timeDay": 3633,
-    "timeWeek": 1858,
-    "timeMonth": 1080,
+    "timeDay": 3051,
+    "timeWeek": 1755,
+    "timeMonth": 1070,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2025-06-23": 8,
@@ -297,7 +297,7 @@
       "2026-04-08": 33,
       "2026-04-28": 37,
       "2026-05-17": 23,
-      "2026-05-30": 70
+      "2026-05-30": 114
     }
   },
   {
@@ -305,16 +305,16 @@
     "url": "https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/www.find-postgraduate-teacher-training.service.gov.uk.ico",
     "slug": "find-postgraduate-teacher-training",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "91.28%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.64%",
     "time": 418,
-    "timeDay": 3597,
-    "timeWeek": 1772,
-    "timeMonth": 884,
+    "timeDay": 3003,
+    "timeWeek": 1668,
+    "timeMonth": 877,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-06-23": 7,
@@ -345,7 +345,7 @@
       "2026-04-02": 22,
       "2026-04-08": 33,
       "2026-04-28": 37,
-      "2026-05-30": 126
+      "2026-05-30": 170
     }
   },
   {
