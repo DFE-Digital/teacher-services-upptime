@@ -449,16 +449,16 @@
     "url": "https://www.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/www.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "publish-teacher-training-courses",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.67%",
-    "time": 564,
-    "timeDay": 373,
-    "timeWeek": 1696,
-    "timeMonth": 865,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.66%",
+    "time": 565,
+    "timeDay": 561,
+    "timeWeek": 1627,
+    "timeMonth": 867,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2025-07-01": 11,
@@ -478,7 +478,7 @@
       "2026-04-08": 33,
       "2026-04-28": 37,
       "2026-05-30": 125,
-      "2026-05-31": 1
+      "2026-05-31": 27
     }
   },
   {
