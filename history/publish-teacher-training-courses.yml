@@ -1,7 +1,7 @@
 url: https://www.publish-teacher-training-courses.service.gov.uk/healthcheck
-status: down
-code: 500
-responseTime: 395
-lastUpdated: 2026-06-23T23:28:16.386Z
+status: up
+code: 200
+responseTime: 616
+lastUpdated: 2026-06-24T09:51:05.701Z
 startTime: 2021-06-25T10:56:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
