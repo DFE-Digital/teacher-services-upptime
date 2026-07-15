@@ -1,7 +1,7 @@
 url: https://getintoteachingapi-production.teacherservices.cloud/api/operations/health_check
 status: up
 code: 200
-responseTime: 540
-lastUpdated: 2026-07-14T23:20:12.512Z
+responseTime: 418
+lastUpdated: 2026-07-15T23:22:01.682Z
 startTime: 2021-06-25T10:56:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
