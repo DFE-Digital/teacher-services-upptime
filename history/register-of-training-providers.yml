@@ -1,7 +1,7 @@
 url: https://register-of-training-providers.education.gov.uk/healthcheck
-status: down
-code: 500
-responseTime: 366
-lastUpdated: 2026-07-28T07:22:34.125Z
+status: up
+code: 200
+responseTime: 500
+lastUpdated: 2026-07-28T08:12:15.493Z
 startTime: 2025-10-06T11:01:31.723Z
 generator: Upptime <https://github.com/upptime/upptime>
