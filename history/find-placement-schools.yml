@@ -1,7 +1,7 @@
 url: https://find-placement-schools.education.gov.uk/healthcheck
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2026-08-12T23:16:10.720Z
+status: down
+code: 500
+responseTime: 571
+lastUpdated: 2026-08-13T11:43:25.876Z
 startTime: 2025-10-13T14:54:36.982Z
 generator: Upptime <https://github.com/upptime/upptime>
