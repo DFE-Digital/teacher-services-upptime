@@ -633,16 +633,16 @@
     "url": "https://api.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "teacher-training-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
-    "time": 587,
-    "timeDay": 492,
-    "timeWeek": 523,
-    "timeMonth": 511,
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.55%",
+    "time": 586,
+    "timeDay": 477,
+    "timeWeek": 515,
+    "timeMonth": 509,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-08-27": 6,
@@ -665,7 +665,7 @@
       "2026-06-23": 539,
       "2026-06-24": 591,
       "2026-07-16": 26,
-      "2026-08-17": 1
+      "2026-08-17": 18
     }
   },
   {
