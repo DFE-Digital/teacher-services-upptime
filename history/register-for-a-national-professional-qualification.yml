@@ -1,7 +1,7 @@
 url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
-status: up
-code: 200
-responseTime: 273
-lastUpdated: 2026-10-06T23:14:31.286Z
+status: down
+code: 500
+responseTime: 534
+lastUpdated: 2026-10-07T15:40:34.113Z
 startTime: 2024-01-19T14:32:02.774Z
 generator: Upptime <https://github.com/upptime/upptime>
