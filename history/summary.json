@@ -35,7 +35,7 @@
     "timeDay": 362,
     "timeWeek": 380,
     "timeMonth": 567,
-    "timeYear": 531,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-10-29": 301,
       "2026-03-16": 32
@@ -73,7 +73,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 545,
     "timeDay": 378,
     "timeWeek": 423,
@@ -109,22 +109,22 @@
     "url": "https://claim-additional-teaching-payment.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/claim-additional-teaching-payment.service.gov.uk.ico",
     "slug": "claim-additional-payments-for-teachers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
-    "time": 775,
-    "timeDay": 489,
-    "timeWeek": 453,
-    "timeMonth": 483,
-    "timeYear": 799,
+    "time": 774,
+    "timeDay": 443,
+    "timeWeek": 441,
+    "timeMonth": 478,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2025-10-29": 376,
       "2026-03-02": 78,
       "2026-08-03": 69,
-      "2026-10-09": 1
+      "2026-10-09": 26
     }
   },
   {
@@ -459,7 +459,7 @@
     "uptime": "93.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.34%",
+    "uptimeMonth": "44.28%",
     "uptimeYear": "93.88%",
     "time": 476,
     "timeDay": 0,
@@ -467,7 +467,7 @@
     "timeMonth": 419,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-10-09": 544,
+      "2026-10-09": 570,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -595,7 +595,7 @@
     "dailyMinutesDown": {
       "2025-10-13": 5,
       "2025-10-29": 309,
-      "2026-10-09": 545,
+      "2026-10-09": 570,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
