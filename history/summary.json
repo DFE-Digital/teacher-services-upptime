@@ -56,7 +56,7 @@
     "timeDay": 572,
     "timeWeek": 552,
     "timeMonth": 479,
-    "timeYear": 575,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2025-10-29": 339,
       "2026-08-12": 65
@@ -153,21 +153,21 @@
     "url": "https://find-a-lost-trn.education.gov.uk/health",
     "icon": "https://icons.duckduckgo.com/ip3/find-a-lost-trn.education.gov.uk.ico",
     "slug": "find-a-lost-trn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 526,
-    "timeDay": 477,
-    "timeWeek": 506,
-    "timeMonth": 427,
+    "timeDay": 473,
+    "timeWeek": 501,
+    "timeMonth": 429,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2025-10-29": 302,
       "2026-06-08": 84,
-      "2026-10-16": 1
+      "2026-10-16": 32
     }
   },
   {
@@ -205,7 +205,7 @@
     "timeDay": 521,
     "timeWeek": 545,
     "timeMonth": 485,
-    "timeYear": 715,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-10-21": 6,
       "2025-10-29": 270,
@@ -243,7 +243,7 @@
     "timeDay": 635,
     "timeWeek": 625,
     "timeMonth": 530,
-    "timeYear": 530,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-10-21": 6,
       "2025-10-29": 330,
@@ -455,7 +455,7 @@
     "uptime": "91.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.60%",
+    "uptimeMonth": "21.53%",
     "uptimeYear": "91.59%",
     "time": 476,
     "timeDay": 0,
@@ -463,7 +463,7 @@
     "timeMonth": 414,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-10-16": 426,
+      "2026-10-16": 458,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -585,11 +585,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/teaching-identity.education.gov.uk.ico",
     "slug": "teaching-identity",
     "status": "down",
-    "uptime": "94.88%",
+    "uptime": "94.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.02%",
+    "uptimeYear": "86.01%",
     "time": 623,
     "timeDay": 0,
     "timeWeek": 0,
@@ -597,7 +597,7 @@
     "timeYear": 616,
     "dailyMinutesDown": {
       "2025-10-29": 309,
-      "2026-10-16": 427,
+      "2026-10-16": 458,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -686,7 +686,7 @@
     "timeDay": 808,
     "timeWeek": 603,
     "timeMonth": 546,
-    "timeYear": 608,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2025-10-29": 364,
       "2025-10-30": 467,
