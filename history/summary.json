@@ -25,21 +25,21 @@
     "url": "https://apply-for-qts-in-england.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/apply-for-qts-in-england.education.gov.uk.ico",
     "slug": "apply-for-qualified-teacher-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.93%",
     "time": 533,
-    "timeDay": 427,
-    "timeWeek": 779,
-    "timeMonth": 560,
+    "timeDay": 470,
+    "timeWeek": 746,
+    "timeMonth": 558,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-10-29": 301,
       "2026-03-16": 32,
-      "2026-10-21": 2
+      "2026-10-21": 9
     }
   },
   {
@@ -176,20 +176,20 @@
     "url": "https://find-a-teaching-school-hub.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/find-a-teaching-school-hub.education.gov.uk.ico",
     "slug": "find-a-teaching-school-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 511,
-    "timeDay": 345,
-    "timeWeek": 395,
-    "timeMonth": 409,
-    "timeYear": 511,
+    "timeDay": 348,
+    "timeWeek": 391,
+    "timeMonth": 407,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2025-10-29": 308,
-      "2026-10-21": 26
+      "2026-10-21": 33
     }
   },
   {
@@ -269,16 +269,16 @@
     "url": "https://getintoteaching.education.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/getintoteaching.education.gov.uk.ico",
     "slug": "get-into-teaching",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.84%",
     "time": 772,
-    "timeDay": 690,
-    "timeWeek": 683,
-    "timeMonth": 740,
+    "timeDay": 679,
+    "timeWeek": 681,
+    "timeMonth": 738,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2025-10-25": 14,
@@ -286,7 +286,7 @@
       "2025-10-30": 468,
       "2025-11-22": 6,
       "2026-03-29": 15,
-      "2026-10-21": 2
+      "2026-10-21": 9
     }
   },
   {
@@ -315,23 +315,23 @@
     "url": "https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/manage-training-for-early-career-teachers.education.gov.uk.ico",
     "slug": "manage-teacher-cpd",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
-    "time": 895,
-    "timeDay": 393,
-    "timeWeek": 443,
-    "timeMonth": 492,
-    "timeYear": 863,
+    "time": 893,
+    "timeDay": 384,
+    "timeWeek": 434,
+    "timeMonth": 488,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2025-10-29": 288,
       "2025-12-16": 12,
       "2026-04-27": 472,
       "2026-09-30": 46,
-      "2026-10-21": 26
+      "2026-10-21": 33
     }
   },
   {
@@ -461,7 +461,7 @@
     "uptime": "89.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.91%",
+    "uptimeMonth": "2.89%",
     "uptimeYear": "89.79%",
     "time": 476,
     "timeDay": 0,
@@ -469,7 +469,7 @@
     "timeMonth": 328,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-10-21": 1415,
+      "2026-10-21": 1423,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -607,7 +607,7 @@
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-10-29": 309,
-      "2026-10-21": 1415,
+      "2026-10-21": 1423,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -749,8 +749,8 @@
     "status": "down",
     "uptime": "98.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.19%",
-    "uptimeMonth": "95.21%",
+    "uptimeWeek": "79.10%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "98.26%",
     "time": 732,
     "timeDay": 506,
@@ -762,7 +762,7 @@
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 760,
-      "2026-10-21": 1415,
+      "2026-10-21": 1424,
       "2026-10-20": 683
     }
   }
