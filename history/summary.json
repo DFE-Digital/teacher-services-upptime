@@ -35,7 +35,7 @@
     "timeDay": 590,
     "timeWeek": 783,
     "timeMonth": 557,
-    "timeYear": 538,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2025-10-29": 301,
       "2026-03-16": 32
@@ -56,7 +56,7 @@
     "timeDay": 550,
     "timeWeek": 474,
     "timeMonth": 470,
-    "timeYear": 574,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-10-29": 339,
       "2026-08-12": 65
@@ -118,7 +118,7 @@
     "timeDay": 570,
     "timeWeek": 626,
     "timeMonth": 516,
-    "timeYear": 800,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2025-10-29": 376,
       "2026-03-02": 78,
@@ -163,7 +163,7 @@
     "timeDay": 447,
     "timeWeek": 443,
     "timeMonth": 422,
-    "timeYear": 513,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2025-10-29": 302,
       "2026-06-08": 84,
@@ -175,20 +175,20 @@
     "url": "https://find-a-teaching-school-hub.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/find-a-teaching-school-hub.education.gov.uk.ico",
     "slug": "find-a-teaching-school-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 511,
-    "timeDay": 363,
-    "timeWeek": 416,
-    "timeMonth": 416,
+    "timeDay": 352,
+    "timeWeek": 406,
+    "timeMonth": 413,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-10-29": 308,
-      "2026-10-21": 15
+      "2026-10-21": 24
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeDay": 532,
     "timeWeek": 438,
     "timeMonth": 470,
-    "timeYear": 708,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2025-10-29": 270,
       "2025-10-30": 469,
@@ -278,7 +278,7 @@
     "timeDay": 798,
     "timeWeek": 704,
     "timeMonth": 740,
-    "timeYear": 833,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2025-10-25": 14,
       "2025-10-29": 340,
@@ -302,7 +302,7 @@
     "timeDay": 547,
     "timeWeek": 471,
     "timeMonth": 495,
-    "timeYear": 694,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2026-02-11": 55,
       "2026-02-10": 6
@@ -313,23 +313,23 @@
     "url": "https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/manage-training-for-early-career-teachers.education.gov.uk.ico",
     "slug": "manage-teacher-cpd",
-    "status": "down",
+    "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 896,
-    "timeDay": 413,
-    "timeWeek": 459,
-    "timeMonth": 495,
-    "timeYear": 865,
+    "time": 895,
+    "timeDay": 393,
+    "timeWeek": 447,
+    "timeMonth": 491,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2025-10-29": 288,
       "2025-12-16": 12,
       "2026-04-27": 472,
       "2026-09-30": 46,
-      "2026-10-21": 15
+      "2026-10-21": 24
     }
   },
   {
@@ -347,7 +347,7 @@
     "timeDay": 460,
     "timeWeek": 635,
     "timeMonth": 712,
-    "timeYear": 1135,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2025-10-29": 231,
       "2026-10-21": 13
@@ -422,7 +422,7 @@
     "timeDay": 462,
     "timeWeek": 701,
     "timeMonth": 556,
-    "timeYear": 526,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2025-10-29": 339,
       "2026-08-25": 56,
@@ -459,7 +459,7 @@
     "uptime": "89.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.99%",
+    "uptimeMonth": "2.96%",
     "uptimeYear": "89.80%",
     "time": 476,
     "timeDay": 0,
@@ -467,7 +467,7 @@
     "timeMonth": 422,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-10-21": 1379,
+      "2026-10-21": 1390,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -556,7 +556,7 @@
     "timeDay": 1194,
     "timeWeek": 1316,
     "timeMonth": 2352,
-    "timeYear": 1764,
+    "timeYear": 1766,
     "dailyMinutesDown": {
       "2025-10-28": 9,
       "2025-10-29": 378,
@@ -605,7 +605,7 @@
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-10-29": 309,
-      "2026-10-21": 1379,
+      "2026-10-21": 1390,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -699,7 +699,7 @@
     "timeDay": 506,
     "timeWeek": 471,
     "timeMonth": 526,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-10-29": 364,
       "2025-10-30": 467,
@@ -734,7 +734,7 @@
     "timeDay": 2788,
     "timeWeek": 2450,
     "timeMonth": 2461,
-    "timeYear": 1214,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2026-06-30": 81
     }
@@ -747,8 +747,8 @@
     "status": "down",
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.55%",
-    "uptimeMonth": "95.29%",
+    "uptimeWeek": "79.43%",
+    "uptimeMonth": "95.27%",
     "uptimeYear": "98.27%",
     "time": 733,
     "timeDay": 646,
@@ -760,7 +760,7 @@
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 760,
-      "2026-10-21": 1379,
+      "2026-10-21": 1390,
       "2026-10-20": 683
     }
   }
