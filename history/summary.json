@@ -175,10 +175,10 @@
     "url": "https://find-a-teaching-school-hub.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/find-a-teaching-school-hub.education.gov.uk.ico",
     "slug": "find-a-teaching-school-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 511,
@@ -188,7 +188,7 @@
     "timeYear": 511,
     "dailyMinutesDown": {
       "2025-10-29": 308,
-      "2026-10-21": 13
+      "2026-10-21": 15
     }
   },
   {
@@ -313,11 +313,11 @@
     "url": "https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/manage-training-for-early-career-teachers.education.gov.uk.ico",
     "slug": "manage-teacher-cpd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.84%",
     "time": 896,
     "timeDay": 413,
@@ -329,7 +329,7 @@
       "2025-12-16": 12,
       "2026-04-27": 472,
       "2026-09-30": 46,
-      "2026-10-21": 13
+      "2026-10-21": 15
     }
   },
   {
@@ -413,7 +413,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/register-national-professional-qualifications.education.gov.uk.ico",
     "slug": "register-for-a-national-professional-qualification",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -456,18 +456,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/register-of-placement-schools.education.gov.uk.ico",
     "slug": "register-of-placement-schools",
     "status": "down",
-    "uptime": "89.81%",
+    "uptime": "89.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.10%",
-    "uptimeYear": "89.81%",
+    "uptimeMonth": "2.99%",
+    "uptimeYear": "89.80%",
     "time": 476,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 422,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-10-21": 1332,
+      "2026-10-21": 1379,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -597,7 +597,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.47%",
+    "uptimeYear": "84.46%",
     "time": 622,
     "timeDay": 0,
     "timeWeek": 0,
@@ -605,7 +605,7 @@
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-10-29": 309,
-      "2026-10-21": 1332,
+      "2026-10-21": 1379,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -745,11 +745,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/teacher-training-entitlement.education.gov.uk.ico",
     "slug": "teacher-training-entitlement",
     "status": "down",
-    "uptime": "98.28%",
+    "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.01%",
-    "uptimeMonth": "95.40%",
-    "uptimeYear": "98.28%",
+    "uptimeWeek": "79.55%",
+    "uptimeMonth": "95.29%",
+    "uptimeYear": "98.27%",
     "time": 733,
     "timeDay": 646,
     "timeWeek": 589,
@@ -760,7 +760,7 @@
       "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 760,
-      "2026-10-21": 1332,
+      "2026-10-21": 1379,
       "2026-10-20": 683
     }
   }
