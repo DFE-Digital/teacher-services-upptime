@@ -1,7 +1,7 @@
 url: https://manage-training-for-early-career-teachers.education.gov.uk/healthcheck
-status: down
-code: 500
-responseTime: 636
-lastUpdated: 2026-10-22T06:56:53.702Z
+status: up
+code: 200
+responseTime: 611
+lastUpdated: 2026-10-22T11:57:15.855Z
 startTime: 2021-06-28T09:16:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
