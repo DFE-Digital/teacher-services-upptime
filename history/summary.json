@@ -26,9 +26,9 @@
     "slug": "apply-for-qualified-teacher-status",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 531,
     "timeDay": 373,
@@ -38,7 +38,7 @@
     "dailyMinutesDown": {
       "2026-03-16": 32,
       "2026-10-21": 9,
-      "2026-11-01": 3
+      "2026-11-01": 8
     }
   },
   {
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-01": 149,
+      "2026-11-01": 155,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -593,7 +593,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2026-11-01": 150,
+      "2026-11-01": 155,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -722,20 +722,20 @@
     "url": "https://teaching-vacancies.service.gov.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/teaching-vacancies.service.gov.uk.ico",
     "slug": "teaching-vacancies",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 1161,
-    "timeDay": 1264,
-    "timeWeek": 2020,
-    "timeMonth": 2375,
-    "timeYear": 1254,
+    "time": 1184,
+    "timeDay": 5184,
+    "timeWeek": 3243,
+    "timeMonth": 2698,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2026-06-30": 81,
-      "2026-11-01": 2
+      "2026-11-01": 6
     }
   },
   {
@@ -747,7 +747,7 @@
     "uptime": "94.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.47%",
-    "uptimeMonth": "62.74%",
+    "uptimeMonth": "62.73%",
     "uptimeYear": "94.55%",
     "time": 722,
     "timeDay": 477,
@@ -770,7 +770,7 @@
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 683,
-      "2026-11-01": 150,
+      "2026-11-01": 155,
       "2026-10-31": 1440
     }
   }
