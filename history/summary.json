@@ -24,21 +24,21 @@
     "url": "https://apply-for-qts-in-england.education.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/apply-for-qts-in-england.education.gov.uk.ico",
     "slug": "apply-for-qualified-teacher-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 531,
-    "timeDay": 373,
-    "timeWeek": 429,
-    "timeMonth": 509,
-    "timeYear": 526,
+    "timeDay": 367,
+    "timeWeek": 421,
+    "timeMonth": 504,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2026-03-16": 32,
       "2026-10-21": 9,
-      "2026-11-01": 8
+      "2026-11-01": 13
     }
   },
   {
@@ -450,7 +450,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-01": 155,
+      "2026-11-01": 160,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -593,7 +593,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2026-11-01": 155,
+      "2026-11-01": 161,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
@@ -744,11 +744,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/teacher-training-entitlement.education.gov.uk.ico",
     "slug": "teacher-training-entitlement",
     "status": "down",
-    "uptime": "94.55%",
+    "uptime": "94.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.47%",
-    "uptimeMonth": "62.73%",
-    "uptimeYear": "94.55%",
+    "uptimeMonth": "62.71%",
+    "uptimeYear": "94.54%",
     "time": 722,
     "timeDay": 477,
     "timeWeek": 501,
@@ -770,7 +770,7 @@
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 683,
-      "2026-11-01": 155,
+      "2026-11-01": 161,
       "2026-10-31": 1440
     }
   }
