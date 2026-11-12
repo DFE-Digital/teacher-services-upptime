@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-12": 772,
+      "2026-11-12": 774,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -608,7 +608,7 @@
     "timeMonth": 0,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2026-11-12": 773,
+      "2026-11-12": 774,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -771,8 +771,8 @@
     "slug": "teacher-training-entitlement",
     "status": "down",
     "uptime": "90.59%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.02%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.03%",
     "uptimeMonth": "25.16%",
     "uptimeYear": "90.59%",
     "time": 714,
