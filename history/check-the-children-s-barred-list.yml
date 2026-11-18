@@ -1,7 +1,7 @@
 url: https://check-the-childrens-barred-list.education.gov.uk/healthcheck
-status: up
-code: 200
-responseTime: 467
-lastUpdated: 2026-11-17T23:07:25.142Z
+status: down
+code: 500
+responseTime: 510
+lastUpdated: 2026-11-18T11:04:27.360Z
 startTime: 2024-02-02T09:35:43.744Z
 generator: Upptime <https://github.com/upptime/upptime>
