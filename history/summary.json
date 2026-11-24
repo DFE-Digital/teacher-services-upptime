@@ -193,17 +193,17 @@
     "url": "https://find-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/find-teacher-training-courses.service.gov.uk.ico",
     "slug": "find-teacher-training-courses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "94.78%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "94.63%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.70%",
-    "time": 814,
-    "timeDay": 8577,
-    "timeWeek": 5707,
-    "timeMonth": 2440,
-    "timeYear": 858,
+    "time": 813,
+    "timeDay": 7900,
+    "timeWeek": 5415,
+    "timeMonth": 2397,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2026-01-19": 16,
       "2026-02-05": 20,
@@ -223,7 +223,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-12": 6,
-      "2026-11-24": 75
+      "2026-11-24": 77
     }
   },
   {
@@ -231,17 +231,17 @@
     "url": "https://www.find-postgraduate-teacher-training.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/www.find-postgraduate-teacher-training.service.gov.uk.ico",
     "slug": "find-postgraduate-teacher-training",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.70%",
     "time": 634,
-    "timeDay": 8545,
-    "timeWeek": 5737,
-    "timeMonth": 2546,
-    "timeYear": 747,
+    "timeDay": 7851,
+    "timeWeek": 5429,
+    "timeMonth": 2494,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2026-01-19": 16,
       "2026-02-05": 20,
@@ -258,7 +258,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-12": 8,
-      "2026-11-24": 89
+      "2026-11-24": 91
     }
   },
   {
@@ -354,17 +354,17 @@
     "url": "https://www.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/www.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "publish-teacher-training-courses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.70%",
-    "time": 685,
-    "timeDay": 8341,
-    "timeWeek": 5187,
-    "timeMonth": 2182,
-    "timeYear": 727,
+    "time": 686,
+    "timeDay": 7552,
+    "timeWeek": 4891,
+    "timeMonth": 2140,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2026-03-20": 17,
       "2026-03-25": 19,
@@ -378,7 +378,7 @@
       "2026-07-16": 26,
       "2026-09-25": 23,
       "2026-10-19": 35,
-      "2026-11-24": 71
+      "2026-11-24": 73
     }
   },
   {
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-24": 323,
+      "2026-11-24": 330,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-11-24": 323,
+      "2026-11-24": 330,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -804,7 +804,7 @@
     "uptime": "90.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.32%",
+    "uptimeMonth": "37.33%",
     "uptimeYear": "90.97%",
     "time": 701,
     "timeDay": 478,
