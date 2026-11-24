@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-24": 226,
+      "2026-11-24": 232,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-11-24": 226,
+      "2026-11-24": 232,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -745,17 +745,17 @@
     "url": "https://api.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "teacher-training-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.70%",
-    "time": 633,
-    "timeDay": 6536,
-    "timeWeek": 3508,
-    "timeMonth": 1373,
-    "timeYear": 691,
+    "time": 664,
+    "timeDay": 8320,
+    "timeWeek": 4701,
+    "timeMonth": 1803,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2026-02-27": 20,
       "2026-03-19": 17,
@@ -771,7 +771,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-10": 6,
-      "2026-11-24": 59
+      "2026-11-24": 64
     }
   },
   {
@@ -804,7 +804,7 @@
     "uptime": "90.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.10%",
+    "uptimeMonth": "37.11%",
     "uptimeYear": "90.97%",
     "time": 701,
     "timeDay": 478,
