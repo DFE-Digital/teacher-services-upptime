@@ -1,7 +1,7 @@
 url: https://find-teacher-training-courses.service.gov.uk/healthcheck
-status: down
-code: 503
-responseTime: 406
-lastUpdated: 2026-11-24T03:08:37.160Z
+status: up
+code: 200
+responseTime: 19956
+lastUpdated: 2026-11-24T03:19:22.925Z
 startTime: 2025-04-17T08:03:07.081Z
 generator: Upptime <https://github.com/upptime/upptime>
