@@ -195,9 +195,9 @@
     "slug": "find-teacher-training-courses",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.94%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.69%",
     "time": 843,
     "timeDay": 8104,
@@ -223,7 +223,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-12": 6,
-      "2026-11-24": 109
+      "2026-11-24": 116
     }
   },
   {
@@ -233,9 +233,9 @@
     "slug": "find-postgraduate-teacher-training",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
     "time": 665,
     "timeDay": 8102,
@@ -258,7 +258,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-12": 8,
-      "2026-11-24": 124
+      "2026-11-24": 130
     }
   },
   {
@@ -356,10 +356,10 @@
     "slug": "publish-teacher-training-courses",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.70%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.69%",
     "time": 714,
     "timeDay": 7809,
     "timeWeek": 5358,
@@ -378,7 +378,7 @@
       "2026-07-16": 26,
       "2026-09-25": 23,
       "2026-10-19": 35,
-      "2026-11-24": 105
+      "2026-11-24": 111
     }
   },
   {
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-24": 1360,
+      "2026-11-24": 1367,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-11-24": 1361,
+      "2026-11-24": 1367,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -745,17 +745,17 @@
     "url": "https://api.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "teacher-training-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "92.35%",
-    "uptimeWeek": "98.91%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.69%",
     "time": 729,
-    "timeDay": 6705,
-    "timeWeek": 4926,
-    "timeMonth": 2373,
-    "timeYear": 824,
+    "timeDay": 6323,
+    "timeWeek": 4729,
+    "timeMonth": 2337,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2026-02-27": 20,
       "2026-03-19": 17,
@@ -771,7 +771,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-10": 6,
-      "2026-11-24": 110
+      "2026-11-24": 111
     }
   },
   {
@@ -804,7 +804,7 @@
     "uptime": "91.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.69%",
+    "uptimeMonth": "39.70%",
     "uptimeYear": "91.00%",
     "time": 701,
     "timeDay": 478,
