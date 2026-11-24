@@ -195,9 +195,9 @@
     "slug": "find-teacher-training-courses",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.69%",
     "time": 843,
     "timeDay": 8104,
@@ -223,7 +223,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-12": 6,
-      "2026-11-24": 104
+      "2026-11-24": 109
     }
   },
   {
@@ -233,9 +233,9 @@
     "slug": "find-postgraduate-teacher-training",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "91.86%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.69%",
     "time": 665,
     "timeDay": 8102,
@@ -258,7 +258,7 @@
       "2026-09-25": 23,
       "2026-10-19": 35,
       "2026-11-12": 8,
-      "2026-11-24": 118
+      "2026-11-24": 124
     }
   },
   {
@@ -354,17 +354,17 @@
     "url": "https://www.publish-teacher-training-courses.service.gov.uk/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/www.publish-teacher-training-courses.service.gov.uk.ico",
     "slug": "publish-teacher-training-courses",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.70%",
-    "time": 715,
-    "timeDay": 8482,
-    "timeWeek": 5649,
-    "timeMonth": 2504,
-    "timeYear": 768,
+    "time": 714,
+    "timeDay": 7809,
+    "timeWeek": 5358,
+    "timeMonth": 2456,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2026-03-20": 17,
       "2026-03-25": 19,
@@ -378,7 +378,7 @@
       "2026-07-16": 26,
       "2026-09-25": 23,
       "2026-10-19": 35,
-      "2026-11-24": 103
+      "2026-11-24": 105
     }
   },
   {
@@ -461,7 +461,7 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-11-24": 1355,
+      "2026-11-24": 1360,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 0,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2026-11-24": 1355,
+      "2026-11-24": 1361,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -804,7 +804,7 @@
     "uptime": "91.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.67%",
+    "uptimeMonth": "39.69%",
     "uptimeYear": "91.00%",
     "time": 701,
     "timeDay": 478,
