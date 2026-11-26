@@ -41,8 +41,6 @@ sites:
     url: https://register-national-professional-qualifications.education.gov.uk/healthcheck
   - name: Register of Training Providers
     url: https://register-of-training-providers.education.gov.uk/healthcheck
-  - name: Register of Placement Schools
-    url: https://register-of-placement-schools.education.gov.uk/healthcheck
   - name: Find Placement Schools
     url: https://find-placement-schools.education.gov.uk/healthcheck
   - name: Register trainee teachers
@@ -51,8 +49,6 @@ sites:
     url: https://schoolexperience.education.gov.uk/healthcheck
   - name: Support For Early Career Teachers
     url: https://support-for-early-career-teachers.education.gov.uk/
-  - name: Teaching Identity
-    url: https://teaching-identity.education.gov.uk/status
   - name: Teaching Record System / Teacher Qualifications API
     url: https://teacher-qualifications-api.education.gov.uk/status
   - name: Teacher training API
